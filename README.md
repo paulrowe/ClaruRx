@@ -1,4 +1,4 @@
-# ClariMed
+# ClaruRx
 
 A plain-language medical reader. Paste a medical document, lab result, or
 discharge note, and ClariMed highlights the words a patient is unlikely to
